@@ -1,9 +1,0 @@
-For robots
-	Load the asset packs and related folders onto each robot
-	Manually add folder structures for SDKAssets/Misty/Skills/
-		Code and Meta folders
-	*If time, create script to move files to the proper places
-
-Instructions on how to upload skill
-	Permission info
-

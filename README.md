@@ -63,7 +63,7 @@ We want you to create a skill utilizing the Misty I robot that satisfies the fol
 
 ## This is the Extremely Helpful Section
 
-Here is some sample code for a basic Computer Client
+Here is some sample code for a basic [Computer Client](/Computer%20Client%20Sample/ComputerClient.md)
 
 Here is some sample code for a basic wander skill
 

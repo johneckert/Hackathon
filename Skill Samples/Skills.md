@@ -461,9 +461,9 @@ To load your skill onto misty, you will have to log into the Device Portal and m
    1. DevicePortalLogin.png
 2. u: `administrator` p: `p@ssw0rd`
 3. Navigate to `Apps/File explorer` in the browser
-   1. FileExplorer.png
+   1. ![File Explorer](/Assets/FileExplorer.png)
 4. In the file explorer, navigate to `User Folders\Music\SDKAssets\Misty\Skills`
-   1. FileExplorer_Skills.png
+   1. ![Skills Directory](/Assets/FileExplorer_Skills.png)
 5. Upload your js file to the `Code` directory.
 6. Upload you manifest .json file to the `Meta` directory. 
 7. *NOTE* Make sure you have uploaded all needed sound and image assets to the robot using the api explorer. 

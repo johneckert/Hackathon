@@ -63,15 +63,11 @@ We want you to create a skill utilizing the Misty I robot that satisfies the fol
 
 ## This is the Extremely Helpful Section
 
-Here is some sample code for a basic [Computer Client](/Computer%20Client%20Sample/ComputerClient.md)
+Here is some sample code for a basic [Computer Client](/Computer%20Client%20Sample)
 
-Here is some sample code for a basic wander skill
+Here is some sample code for [creating skills](/Skill%20Sample)
 
-Here is some documentation on how to upload skills to Misty
-
-Here is some sample code on how to get streaming data from the Robot
-
-Here is some sample code on how to start and stop Skills on the Robot
+Here is some documentation on how to [upload skills](/Skill%20Sample/Skills.md) to Misty
 
 Here are some useful [enpoint examples](https://web.postman.co/collections/4613958-a5b22d5f-f97f-49b7-8369-2b161cdab7d0?workspace=28e2ae27-9953-4907-8e88-ed38b1457585)
 

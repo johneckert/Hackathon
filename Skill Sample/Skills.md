@@ -6,7 +6,9 @@ Misty has the ability to run javaScript locally on the robot. There are some tem
 
 
 
-To Get started with your first skill, you'll need to start with a meta file (Example `wander.json` can be found in this folder) which gives Misty a list of assets needed for the skill, and the code for your skill (example `Wander.js`)
+To Get started with your first skill, you'll need to begin with a meta file (Example `wander.json` can be found in this folder) which gives Misty a list of assets needed for the skill, and the code for your skill (example `Wander.js`) You'll then need to create a similarly name javaScript file that defines the execution logic. 
+
+To start the execution of your skill, you just need to run 
 
 **NOTE** You'll have to manually upload each sound and image file you'll be using in your skill using the API Explorer (Can be found at api-explorer.mistyrobotics.com or in this repo  /Useful Tools)
 
@@ -292,7 +294,7 @@ A skill must have BroadcaseDebug set to true in their meta file in order for Deb
 
 **Skill Debugging**
 
-The SkillDebugger.html page has some capabilities to help a user run and test their code.  
+The [SkillDebugger.html](/Tools) page has some capabilities to help a user run and test their code.  
 
 Once a robot has started, you can select to Listen to the Skill Debugger, and if your skill is designated to Broadcast debug statements, all exceptions and calls to misty.Debug will be sent to the websocket listener.  
 

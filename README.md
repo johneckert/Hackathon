@@ -69,7 +69,7 @@ Here is some sample code for [creating skills](/Skill%20Sample)
 
 Here is some documentation on how to [upload skills](/Skill%20Sample/Skills.md) to Misty
 
-Here are some useful [enpoint examples](https://web.postman.co/collections/4613958-a5b22d5f-f97f-49b7-8369-2b161cdab7d0?workspace=28e2ae27-9953-4907-8e88-ed38b1457585)
+Here are some useful [enpoint examples](https://documenter.getpostman.com/view/3743818/RWEgpdTW)
 
 All our the documentation can be found at [docs.mistyrobotics.com](https://docs.mistyrobotics.com/)
 
